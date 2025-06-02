@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+/* import 'package:flutter/material.dart';
 import 'package:flutter_treino/secondPage.dart';
 
 class MyWidget extends StatelessWidget {
@@ -76,9 +76,10 @@ class rodape extends StatelessWidget {
     );
   }
 }
+ */
+import 'package:flutter/material.dart';
+import 'package:flutter_treino/firstPage.dart';
 
 void main(){
   runApp(MyWidget());
 }
-
-dasdas
